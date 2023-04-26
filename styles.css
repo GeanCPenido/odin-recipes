@@ -1,8 +1,14 @@
 body {
     font-family: 'Times New Roman', Papyrus, sans-serif;
+    background-color: paleturquoise;
 }
 
 img {
     height: auto;
     width: 600px;
+}
+
+li img {
+    height: auto;
+    width: 200px;
 }
